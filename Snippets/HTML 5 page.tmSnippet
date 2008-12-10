@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;title&gt;${1:title}&lt;/title&gt;
+  &lt;link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"&gt;
+  &lt;link rel="stylesheet" type="text/css" href="${2:/styles/screen.css}" media="${3:screen, projection}"&gt;
+  &lt;link rel="stylesheet" type="text/css" href="${4:styles/print.css}" media="print"&gt;
+  ${5:&lt;!--[if lt IE 8]&gt;
+  &lt;link rel="stylesheet" href="styles/ie.css" type="text/css" media="screen, projection"&gt;
+  &lt;![endif]--&gt;
+  }
+  ${6:&lt;script type="text/javascript"&gt;if (document.documentElement) document.documentElement.className = 'js';&lt;/script&gt;
+  }
+  ${7:&lt;script src="/scripts/jquery${8:-1.2.6.min}.js" type="text/javascript"&gt;&lt;/script&gt;
+  }${9:&lt;script src="/scripts/${10:default}.js" type="text/javascript"&gt;&lt;/script&gt;
+  }
+
+&lt;/head&gt;
+&lt;body&gt;
+  $0
+&lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>HTML 5 page</string>
+	<key>scope</key>
+	<string>text.html, text.plain</string>
+	<key>tabTrigger</key>
+	<string>page</string>
+	<key>uuid</key>
+	<string>5ECDF8FE-BD97-41F8-AC04-3CBC764426CD</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (window.console &amp;&amp; console.log) { console.log(${1:$TM_SELECTED_TEXT});}$0</string>
+	<key>name</key>
+	<string>log</string>
+	<key>tabTrigger</key>
+	<string>clog</string>
+	<key>uuid</key>
+	<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C95A9B41-8F17-407D-A59D-6E916926C882</string>
+			<string>9D78FACB-5E24-4804-8EDC-D59EF0E7E8E3</string>
+			<string>79F06016-47C3-4258-9AEA-955DFB7CAE49</string>
+			<string>703F901B-27AA-4BF3-ADA6-E4F94C4D15CC</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>703F901B-27AA-4BF3-ADA6-E4F94C4D15CC</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>32FF83F8-A931-46F8-900A-15C0415B7119</string>
+					<string>36368AB1-9F3E-4EDB-9CAB-71DDAE2BCA07</string>
+					<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
+				</array>
+				<key>name</key>
+				<string>JavaScript</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Fusionary</string>
+	<key>ordering</key>
+	<array>
+		<string>EB9F8569-656D-4AA2-A76B-450491006332</string>
+		<string>32FF83F8-A931-46F8-900A-15C0415B7119</string>
+		<string>478D7C4A-19AA-4D0B-87EB-5AFAF45D6486</string>
+		<string>5ECDF8FE-BD97-41F8-AC04-3CBC764426CD</string>
+		<string>36368AB1-9F3E-4EDB-9CAB-71DDAE2BCA07</string>
+		<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
+		<string>C95A9B41-8F17-407D-A59D-6E916926C882</string>
+		<string>9D78FACB-5E24-4804-8EDC-D59EF0E7E8E3</string>
+		<string>79F06016-47C3-4258-9AEA-955DFB7CAE49</string>
+	</array>
+	<key>uuid</key>
+	<string>DDAAE435-8DCF-4DB8-9026-1CBA8E6E31A4</string>
+</dict>
+</plist>
