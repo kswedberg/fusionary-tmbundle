@@ -5,7 +5,9 @@
 	<key>content</key>
 	<string>(window.console &amp;&amp; console.log) ? console.log(${1:$TM_SELECTED_TEXT}) : alert($1);$0</string>
 	<key>name</key>
-	<string>log and alert</string>
+	<string>console.log and alert</string>
+	<key>scope</key>
+	<string>source.js, source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>calert</string>
 	<key>uuid</key>

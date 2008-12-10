@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>text div</string>
 	<key>scope</key>
-	<string>text.html,text.plain</string>
+	<string>text.html, text.plain</string>
 	<key>tabTrigger</key>
 	<string>text</string>
 	<key>uuid</key>

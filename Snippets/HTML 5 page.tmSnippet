@@ -14,8 +14,8 @@
   ${5:&lt;!--[if lt IE 8]&gt;
   &lt;link rel="stylesheet" href="styles/ie.css" type="text/css" media="screen, projection"&gt;
   &lt;![endif]--&gt;
-  }
-  ${6:&lt;script type="text/javascript"&gt;if (document.documentElement) document.documentElement.className = 'js';&lt;/script&gt;
+  }${6:
+  &lt;script type="text/javascript"&gt;if (document.documentElement) document.documentElement.className = 'js';&lt;/script&gt;
   }
   ${7:&lt;script src="/scripts/jquery${8:-1.2.6.min}.js" type="text/javascript"&gt;&lt;/script&gt;
   }${9:&lt;script src="/scripts/${10:default}.js" type="text/javascript"&gt;&lt;/script&gt;

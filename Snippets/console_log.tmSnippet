@@ -5,7 +5,9 @@
 	<key>content</key>
 	<string>if (window.console &amp;&amp; console.log) { console.log(${1:$TM_SELECTED_TEXT});}$0</string>
 	<key>name</key>
-	<string>log</string>
+	<string>console.log</string>
+	<key>scope</key>
+	<string>source.js, source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>clog</string>
 	<key>uuid</key>

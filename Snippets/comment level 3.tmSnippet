@@ -10,6 +10,8 @@ $0</string>
 	<string>~@/</string>
 	<key>name</key>
 	<string>comment level 3</string>
+	<key>scope</key>
+	<string>source.css, source.js, source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>/*</string>
 	<key>uuid</key>
