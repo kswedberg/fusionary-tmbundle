@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/** =${1:screen.css}
+************************************************************
+@project		${2:Project Name}
+${0:@colordef   #eafbd8; light green (link hover bg)
+@fontdef freesans, arial, sans-serif; (headlines)
+@section
+@note
+@project
+@see
+
+Other notes...}
+************************************************************/</string>
+	<key>keyEquivalent</key>
+	<string>~@/</string>
+	<key>name</key>
+	<string>CSS Comment - File Header</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>uuid</key>
+	<string>D890C585-CE2C-44D0-A030-5E5C68718F61</string>
+</dict>
+</plist>

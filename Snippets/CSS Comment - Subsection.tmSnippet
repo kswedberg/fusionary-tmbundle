@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;code&gt;${1:}&lt;/code&gt; $0
-</string>
+	<string>/* =${1:comment} */</string>
+	<key>keyEquivalent</key>
+	<string>~@/</string>
 	<key>name</key>
-	<string>code</string>
+	<string>CSS Comment - Subsection</string>
 	<key>scope</key>
-	<string>text.html, text.plain</string>
-	<key>tabTrigger</key>
-	<string>code</string>
+	<string>source.css</string>
 	<key>uuid</key>
-	<string>36368AB1-9F3E-4EDB-9CAB-71DDAE2BCA07</string>
+	<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
 </dict>
 </plist>

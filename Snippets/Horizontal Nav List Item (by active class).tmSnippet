@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:.nav-main} li.li-${2:1} a 				{ ${4:background-position: -${5:0}px 0px; }width: ${3:86}px; }
+$1 li.li-$2 a:hover,
+$1 li.li-$2 a.active	{ background-position: -${5:0}px ${6:-50}px; }
+$0</string>
+	<key>name</key>
+	<string>Horizontal Nav List Item (by active class)</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>nav</string>
+	<key>uuid</key>
+	<string>BF7273CA-BBA1-4284-B0C4-5332956EE62E</string>
+</dict>
+</plist>

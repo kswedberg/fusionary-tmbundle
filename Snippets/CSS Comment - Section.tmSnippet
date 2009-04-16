@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/** =${1:comment level 3}
-********************/
+	<string>/** =${1:comment}
+************************************************************/
 $0</string>
 	<key>keyEquivalent</key>
 	<string>~@/</string>
 	<key>name</key>
-	<string>comment level 3</string>
+	<string>CSS Comment - Section</string>
 	<key>scope</key>
-	<string>source.css, source.js, source.js.jquery</string>
-	<key>tabTrigger</key>
-	<string>/*</string>
+	<string>source.css</string>
 	<key>uuid</key>
-	<string>79F06016-47C3-4258-9AEA-955DFB7CAE49</string>
+	<string>F8946302-6582-42C3-A042-1C2A841C3423</string>
 </dict>
 </plist>

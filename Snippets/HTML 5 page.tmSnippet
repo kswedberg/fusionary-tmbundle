@@ -29,7 +29,7 @@
 	<key>name</key>
 	<string>HTML 5 page</string>
 	<key>scope</key>
-	<string>text.html, text.plain</string>
+	<string>text.html, text.plain, text.html.ee</string>
 	<key>tabTrigger</key>
 	<string>page</string>
 	<key>uuid</key>
