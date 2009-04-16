@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="alternate" type="application/rss+xml" title="${1:title}" href="${2:/news/feed}"${TM_XHTML}&gt;</string>
+	<key>name</key>
+	<string>RSS &lt;link&gt; Tag</string>
+	<key>scope</key>
+	<string>text.html, text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>130338C1-A989-4223-8039-484B05C020FF</string>
+</dict>
+</plist>

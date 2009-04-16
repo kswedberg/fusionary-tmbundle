@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;input type="${5:submit/image}" ${6:src="${7:/images/assets/buttons/sprite-gray.png}" }${8:name="${9:btn-submit}" }${10:value="${11:$9}" }${12:id="${13:$9}"}${TM_XHTML}&gt;</string>
+	<key>name</key>
+	<string>Submit/Image Input</string>
+	<key>scope</key>
+	<string>text.html, text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>form</string>
+	<key>uuid</key>
+	<string>DA78BA92-4F77-4349-A4EC-E7F24E1C11F2</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="apple-touch-icon" href="${1:assets/images/icons/apple-touch-icon.png}"${TM_XHTML}&gt;</string>
+	<key>name</key>
+	<string>Apple Touch &lt;link&gt; Tag</string>
+	<key>scope</key>
+	<string>text.html, text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>B6AF11DB-0C69-457E-8F75-A82F9B5871D0</string>
+</dict>
+</plist>

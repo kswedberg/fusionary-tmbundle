@@ -3,19 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/** ===${1:comment level 1}
+	<string>/** =${1:screen.css}
 ************************************************************
-************************************************************/
-$0</string>
+@project		${2:Project Name}
+${0:@colordef   #eafbd8; light green (link hover bg)
+@fontdef freesans, arial, sans-serif; (headlines)
+@section
+@note
+@project
+@see
+
+Other notes...}
+************************************************************/</string>
 	<key>keyEquivalent</key>
 	<string>~@/</string>
 	<key>name</key>
-	<string>comment level 1</string>
+	<string>CSS Comment - File Header</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
-	<key>tabTrigger</key>
-	<string>/*</string>
 	<key>uuid</key>
-	<string>C95A9B41-8F17-407D-A59D-6E916926C882</string>
+	<string>D890C585-CE2C-44D0-A030-5E5C68718F61</string>
 </dict>
 </plist>
