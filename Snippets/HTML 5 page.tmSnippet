@@ -6,19 +6,22 @@
 	<string>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;${1:title}&lt;/title&gt;
-  &lt;link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"&gt;
-  &lt;link rel="stylesheet" type="text/css" href="${2:/styles/screen.css}" media="${3:screen, projection}"&gt;
-  &lt;link rel="stylesheet" type="text/css" href="${4:styles/print.css}" media="print"&gt;
-  ${5:&lt;!--[if lt IE 8]&gt;
+  &lt;meta http-equiv="Content-Type" content="text/html;charset=utf-8"&gt;
+  ${1:&lt;!--[if IE]&gt;
+  &lt;meta http-equiv="imagetoolbar" content="false"&gt;
+  &lt;![endif]--&gt;
+  }&lt;title&gt;${2:title}&lt;/title&gt;
+  ${3:&lt;link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"&gt;
+  }${4:&lt;link rel="stylesheet" type="text/css" href="${5:/styles/screen.css}" media="${6:screen, projection}"&gt;
+  ${7:&lt;link rel="stylesheet" type="text/css" href="${8:styles/print.css}" media="print"&gt;
+  }}${9:&lt;!--[if lt IE 8]&gt;
   &lt;link rel="stylesheet" href="styles/ie.css" type="text/css" media="screen, projection"&gt;
   &lt;![endif]--&gt;
-  }${6:
+  }${10:
   &lt;script type="text/javascript"&gt;if (document.documentElement) document.documentElement.className = 'js';&lt;/script&gt;
   }
-  ${7:&lt;script src="/scripts/jquery${8:-1.2.6.min}.js" type="text/javascript"&gt;&lt;/script&gt;
-  }${9:&lt;script src="/scripts/${10:default}.js" type="text/javascript"&gt;&lt;/script&gt;
+  ${11:&lt;script src="/scripts/jquery${12:-1.3.2.min}.js" type="text/javascript"&gt;&lt;/script&gt;
+  }${13:&lt;script src="/scripts/${14:default}.js" type="text/javascript"&gt;&lt;/script&gt;
   }
 
 &lt;/head&gt;
