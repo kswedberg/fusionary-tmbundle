@@ -16,7 +16,7 @@ ${0:@colordef   #eafbd8; light green (link hover bg)
 Other notes...}
 ************************************************************/</string>
 	<key>keyEquivalent</key>
-	<string>~@/</string>
+	<string>@?</string>
 	<key>name</key>
 	<string>CSS Comment - File Header</string>
 	<key>scope</key>

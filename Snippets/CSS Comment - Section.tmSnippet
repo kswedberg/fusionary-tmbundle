@@ -7,7 +7,7 @@
 ************************************************************/
 $0</string>
 	<key>keyEquivalent</key>
-	<string>~@/</string>
+	<string>@/</string>
 	<key>name</key>
 	<string>CSS Comment - Section</string>
 	<key>scope</key>

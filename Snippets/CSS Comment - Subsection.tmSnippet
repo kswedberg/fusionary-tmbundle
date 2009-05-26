@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>/* =${1:comment} */</string>
 	<key>keyEquivalent</key>
-	<string>~@/</string>
+	<string>@/</string>
 	<key>name</key>
 	<string>CSS Comment - Subsection</string>
 	<key>scope</key>
