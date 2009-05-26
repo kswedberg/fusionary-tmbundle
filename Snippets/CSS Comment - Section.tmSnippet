@@ -7,11 +7,13 @@
 ************************************************************/
 $0</string>
 	<key>keyEquivalent</key>
-	<string>@/</string>
+	<string>~@/</string>
 	<key>name</key>
 	<string>CSS Comment - Section</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*</string>
 	<key>uuid</key>
 	<string>F8946302-6582-42C3-A042-1C2A841C3423</string>
 </dict>

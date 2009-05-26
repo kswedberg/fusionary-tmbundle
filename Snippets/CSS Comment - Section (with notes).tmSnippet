@@ -17,11 +17,13 @@ ${0:@colordef   #eafbd8; light green (link hover bg)
 Other notes...}
 ************************************************************/</string>
 	<key>keyEquivalent</key>
-	<string>@?</string>
+	<string>~@/</string>
 	<key>name</key>
 	<string>CSS Comment - Section (with notes)</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*</string>
 	<key>uuid</key>
 	<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
 </dict>
