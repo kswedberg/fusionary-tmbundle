@@ -21,6 +21,8 @@ Other notes...}
 	<string>CSS Comment - File Header</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*</string>
 	<key>uuid</key>
 	<string>D890C585-CE2C-44D0-A030-5E5C68718F61</string>
 </dict>

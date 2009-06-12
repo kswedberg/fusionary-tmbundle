@@ -22,6 +22,8 @@ Other notes...}
 	<string>CSS Comment - Section (with notes)</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*</string>
 	<key>uuid</key>
 	<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
 </dict>

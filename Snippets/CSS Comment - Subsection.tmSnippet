@@ -10,6 +10,8 @@
 	<string>CSS Comment - Subsection</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*</string>
 	<key>uuid</key>
 	<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
 </dict>
