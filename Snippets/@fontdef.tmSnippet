@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;input name="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}" value="$1" id="${3:$2}" /&gt;$0</string>
+	<string>@fontdef	${1:Baskerville, Palatino, Constantia, "Book Antiqua", "URW Palladio L", serif}; ${2:swirly serifs }(${3:ampersands})</string>
 	<key>name</key>
-	<string>input (submit)</string>
+	<string>@fontdef</string>
 	<key>scope</key>
-	<string>text.html, text.plain</string>
+	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>submit</string>
+	<string>@</string>
 	<key>uuid</key>
-	<string>866013EA-9B03-4B5B-90DC-F3636BCA3937</string>
+	<string>B252A312-800E-448C-B0B5-A04FCD41AF29</string>
 </dict>
 </plist>

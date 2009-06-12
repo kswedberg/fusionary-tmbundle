@@ -10,6 +10,7 @@
 			<string>5A9D0357-5D47-4942-A092-ACCC4F74C560</string>
 			<string>ADFC3676-0322-4FB6-9F02-AA1F0B064996</string>
 			<string>2C4BE61D-69D8-4733-BBB6-DCA0D8138EEB</string>
+			<string>B6AF11DB-0C69-457E-8F75-A82F9B5871D0</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -61,10 +62,10 @@
 			<dict>
 				<key>items</key>
 				<array>
-					<string>D890C585-CE2C-44D0-A030-5E5C68718F61</string>
 					<string>F8946302-6582-42C3-A042-1C2A841C3423</string>
 					<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
 					<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
+					<string>D890C585-CE2C-44D0-A030-5E5C68718F61</string>
 				</array>
 				<key>name</key>
 				<string>Comments</string>
@@ -83,12 +84,25 @@
 				<key>name</key>
 				<string>Inputs</string>
 			</dict>
+			<key>A063D85A-5090-4413-ACE2-FA27C14DE9EB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C1BE1ACE-C2DE-4929-9D2B-9327537BD7D5</string>
+					<string>CD59163E-1565-4A42-A8FD-C4306CF002F9</string>
+					<string>B252A312-800E-448C-B0B5-A04FCD41AF29</string>
+					<string>34D0CBF1-3B2A-4D11-AB15-7C3F8964B275</string>
+				</array>
+				<key>name</key>
+				<string>@tags</string>
+			</dict>
 			<key>ADFC3676-0322-4FB6-9F02-AA1F0B064996</key>
 			<dict>
 				<key>items</key>
 				<array>
 					<string>E062CA39-994B-4B3F-B748-FC8315B85126</string>
 					<string>C8C82FFB-0E39-4428-9640-884312D04E44</string>
+					<string>A063D85A-5090-4413-ACE2-FA27C14DE9EB</string>
 					<string>4C537B82-BFAA-475D-83A3-510D60316E8B</string>
 					<string>8547AE78-A7F8-4843-A373-FF93BD744529</string>
 				</array>
@@ -138,6 +152,10 @@
 		<string>F8946302-6582-42C3-A042-1C2A841C3423</string>
 		<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
 		<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
+		<string>CD59163E-1565-4A42-A8FD-C4306CF002F9</string>
+		<string>B252A312-800E-448C-B0B5-A04FCD41AF29</string>
+		<string>34D0CBF1-3B2A-4D11-AB15-7C3F8964B275</string>
+		<string>C1BE1ACE-C2DE-4929-9D2B-9327537BD7D5</string>
 		<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
 		<string>32FF83F8-A931-46F8-900A-15C0415B7119</string>
 	</array>
