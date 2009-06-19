@@ -93,7 +93,7 @@
 				<key>findInProjectRegularExpression</key>
 				<false/>
 				<key>findString</key>
-				<string>:(\S)</string>
+				<string>:(?!(hover|link|active|focus|visited))\s*</string>
 				<key>ignoreCase</key>
 				<true/>
 				<key>regularExpression</key>
@@ -101,7 +101,7 @@
 				<key>replaceAllScope</key>
 				<string>document</string>
 				<key>replaceString</key>
-				<string>: $1</string>
+				<string>: </string>
 				<key>wrapAround</key>
 				<true/>
 			</dict>
