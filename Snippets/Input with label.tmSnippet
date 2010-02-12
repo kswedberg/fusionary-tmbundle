@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>&lt;div class="${3}"&gt;
-  &lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"&gt;$1&lt;/label&gt;
-  &lt;input type="${3:text/password/file}"${7: id="${8:$2}"}${9: name="${9:$2}"}${TM_XHTML}&gt;
+  &lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:-:\L$0)/g}}"&gt;$1&lt;/label&gt;
+  &lt;input type="${3:text/password/file/tel/email}"${7: id="${8:$2}"}${9: name="${9:$2}"}${TM_XHTML}&gt;
 &lt;/div&gt;
 $0</string>
 	<key>name</key>

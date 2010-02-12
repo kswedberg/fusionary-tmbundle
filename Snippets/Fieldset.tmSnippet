@@ -5,8 +5,8 @@
 	<key>bundleUUID</key>
 	<string>4676FC6D-6227-11D9-BFB1-000D93589AF6</string>
 	<key>content</key>
-	<string>&lt;fieldset${1: class="${2:multi-line}"}&gt;
-	&lt;${3:h3} class="legend"&gt;${4:$TM_SELECTED_TEXT}&lt;/$3&gt;
+	<string>&lt;fieldset${1: class="${2:actions}"}&gt;
+	${3:&lt;${4:h3} class="legend"&gt;Legend&lt;/$4&gt;}
 	$0
 &lt;/fieldset&gt;</string>
 	<key>name</key>
@@ -14,7 +14,7 @@
 	<key>scope</key>
 	<string>text.html, text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>fieldset</string>
 	<key>uuid</key>
 	<string>42B943E0-691F-40D4-8F01-4E09EFD11A62</string>
 </dict>

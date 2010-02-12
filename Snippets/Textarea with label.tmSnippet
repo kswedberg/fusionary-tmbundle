@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;div class="textarea"&gt;
-  &lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"&gt;$1&lt;/label&gt;
+  &lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:-:\L$0)/g}}"&gt;$1&lt;/label&gt;
   &lt;textarea rows="${11:8}" cols="${12:40}"${7: id="${8:$2}"}${9: name="${10:$2}"}&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 $0</string>
@@ -13,7 +13,7 @@ $0</string>
 	<key>scope</key>
 	<string>text.html, text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>textarea</string>
 	<key>uuid</key>
 	<string>EF2E676F-B8F1-452B-9767-9BA8323298C0</string>
 </dict>

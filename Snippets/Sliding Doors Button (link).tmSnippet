@@ -3,21 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;form action="${1:#}"&gt;
-  &lt;fieldset&gt;
-    $0
-  &lt;/fieldset&gt;
-  &lt;div class="actions"&gt;
-
-  &lt;/div&gt;
-&lt;/form&gt;</string>
+	<string>&lt;a class="btn" href="${1:#}"&gt;&lt;span&gt;${3:Link Text}&lt;/span&gt;&lt;/a&gt;</string>
 	<key>name</key>
-	<string>Form</string>
+	<string>Sliding Doors Button (link)</string>
 	<key>scope</key>
 	<string>text.html, text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>btn</string>
 	<key>uuid</key>
-	<string>910A1DD8-9932-41EC-8FBD-6ADFD91A1986</string>
+	<string>6A78142F-50A5-4DEC-9132-8408D33004F5</string>
 </dict>
 </plist>

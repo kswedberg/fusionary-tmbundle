@@ -3,11 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/* =${1:comment} */</string>
+	<string>/* =${1:$TM_SELECTED_TEXT} */
+$0</string>
 	<key>keyEquivalent</key>
 	<string>~@/</string>
 	<key>name</key>
-	<string>CSS Comment - Subsection</string>
+	<string>CSS/JS Comment - Sub-section</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
 	<key>tabTrigger</key>

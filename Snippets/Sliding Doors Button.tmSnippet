@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;button class="btn" type="submit"&gt;&lt;span&gt;${3:Send}&lt;/span&gt;&lt;/button&gt;</string>
+	<string>&lt;button class="btn" type="submit"&gt;&lt;span&gt;${3:Button Text}&lt;/span&gt;&lt;/button&gt;</string>
 	<key>name</key>
-	<string>Sliding Doors Button</string>
+	<string>Sliding Doors Button (button)</string>
 	<key>scope</key>
 	<string>text.html, text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>btn</string>
 	<key>uuid</key>
 	<string>8E7C6701-DCEE-434C-9C5E-F211FD1F349A</string>
 </dict>

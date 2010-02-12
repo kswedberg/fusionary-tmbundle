@@ -4,19 +4,17 @@
 <dict>
 	<key>content</key>
 	<string>/** =${1:$TM_SELECTED_TEXT}
-************************************************************
-${2:Notes...}
-************************************************************/
+${2:Notes...} **/
 $0</string>
 	<key>keyEquivalent</key>
 	<string>~@/</string>
 	<key>name</key>
-	<string>CSS/JS Comment - Section (with notes)</string>
+	<string>CSS/JS Comment - Sub-section (with notes)</string>
 	<key>scope</key>
 	<string>source.css, source.js, source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>/*</string>
 	<key>uuid</key>
-	<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
+	<string>607E754E-4719-4839-8335-4454259988C5</string>
 </dict>
 </plist>
