@@ -9,22 +9,21 @@
 	&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;
   &lt;title&gt;${1:title}&lt;/title&gt;
   ${2:&lt;link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"&gt;
-  }${3:&lt;link rel="apple-touch-icon" href="${10:/assets/images/icons/apple-touch-icon.png}"&gt;
-  }${50:&lt;link href="${55:/assets/styles/screen.css}" media="screen, projection" rel="stylesheet" type="text/css"&gt;
-  }${90:&lt;link href="${95:/assets/styles/print.css}" media="print" rel="stylesheet" type="text/css"&gt;
+  }${3:&lt;link rel="apple-touch-icon" href="/assets/images/icons/apple-touch-icon.png"&gt;
+  }${50:&lt;link href="/assets/styles/screen.css" media="screen, projection" rel="stylesheet" type="text/css"&gt;
+  }${90:&lt;link href="/assets/styles/print.css" media="print" rel="stylesheet" type="text/css"&gt;
   }${100:&lt;!--[if IE]&gt;
   &lt;link rel="stylesheet" href="/assets/styles/ie.css" type="text/css" media="screen, projection"&gt;
   &lt;![endif]--&gt;
-  }${110:
-  	&lt;script&gt;
+  }${110:&lt;script&gt;
 	    if (document.documentElement) document.documentElement.className = 'js';
 	    var FM = {
 	      scriptDir: '/assets/scripts/',
 	      imgDir:    '/assets/styles/images/',
 	      pngSelector: ''
-	    };
+	    \};
 	  &lt;/script&gt;
-	  &lt;script src="/assets/scripts/jquery-${120:1.4.min}.js"&gt;&lt;/script&gt;
+	  &lt;script src="/assets/scripts/jquery-1.4.min.js"&gt;&lt;/script&gt;
 	  &lt;!--[if lt IE 7]&gt;
 	  &lt;script src="/assets/scripts/default-ie.js"&gt;&lt;/script&gt;
 	  &lt;![endif]--&gt;}
