@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>console.log</string>
 	<key>scope</key>
-	<string>source.js, source.js.jquery</string>
+	<string>source.js,source.js.jquery</string>
 	<key>tabTrigger</key>
 	<string>clog</string>
 	<key>uuid</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;div class="${3}"&gt;
   &lt;label for="${2:${1/[[:alpha:]]+|( )/(?1:-:\L$0)/g}}"&gt;$1&lt;/label&gt;
-  &lt;input type="${3:text/password/file/tel/email}"${7: id="${8:$2}"}${9: name="${9:$2}"}${TM_XHTML}&gt;
+  &lt;input type="${3:text/password/file/tel/email}"${7: id="${8:$2}"}${9: name="${10:$2}"}${TM_XHTML}&gt;
 &lt;/div&gt;
 $0</string>
 	<key>name</key>
@@ -13,7 +13,7 @@ $0</string>
 	<key>scope</key>
 	<string>text.html, text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>input</string>
 	<key>uuid</key>
 	<string>83B92026-E712-40E7-A2AB-D8EE8C69E6CF</string>
 </dict>

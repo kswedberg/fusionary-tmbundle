@@ -32,6 +32,7 @@
 				<array>
 					<string>32FF83F8-A931-46F8-900A-15C0415B7119</string>
 					<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
+					<string>EBE92F02-F17D-4733-BE8D-649FCB406FB4</string>
 				</array>
 				<key>name</key>
 				<string>JavaScript</string>
@@ -80,6 +81,7 @@
 	<key>ordering</key>
 	<array>
 		<string>1DADC077-6BC6-4221-89AA-228063CEFE5A</string>
+		<string>E5A9C362-EDAA-41DC-9D0B-C4F4B73F0062</string>
 		<string>EB9F8569-656D-4AA2-A76B-450491006332</string>
 		<string>5ECDF8FE-BD97-41F8-AC04-3CBC764426CD</string>
 		<string>BF7273CA-BBA1-4284-B0C4-5332956EE62E</string>
@@ -94,10 +96,13 @@
 		<string>6A78142F-50A5-4DEC-9132-8408D33004F5</string>
 		<string>42B943E0-691F-40D4-8F01-4E09EFD11A62</string>
 		<string>F8946302-6582-42C3-A042-1C2A841C3423</string>
+		<string>BC8966B5-6EE3-4477-918F-65C1D7BC745B</string>
+		<string>359EF26B-DCAB-4A4E-BD61-0D9F6D0E8D5E</string>
 		<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
 		<string>C6D2049F-D1F9-48DF-B238-0AAAA7220D47</string>
 		<string>607E754E-4719-4839-8335-4454259988C5</string>
 		<string>DB0A6321-AA19-4A0E-86A7-712887AFE4B6</string>
+		<string>EBE92F02-F17D-4733-BE8D-649FCB406FB4</string>
 		<string>32FF83F8-A931-46F8-900A-15C0415B7119</string>
 	</array>
 	<key>uuid</key>

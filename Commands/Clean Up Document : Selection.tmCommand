@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>perl -pe 's/[^\t\n\x20-\xFF]|\x7F|\xC2[\x80-\x9F]|([\t ]+$)//g'
+</string>
+	<key>fallbackInput</key>
+	<string>document</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>^R</string>
+	<key>name</key>
+	<string>Clean Up Document / Selection</string>
+	<key>output</key>
+	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>text.html, source.css, source.js</string>
+	<key>uuid</key>
+	<string>E5A9C362-EDAA-41DC-9D0B-C4F4B73F0062</string>
+</dict>
+</plist>

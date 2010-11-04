@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/** =${1:$TM_SELECTED_TEXT} **/
-$0</string>
+	<string>console.log(${1:$TM_SELECTED_TEXT});$0</string>
 	<key>name</key>
-	<string>CSS/JS Comment - Sub-section</string>
+	<string>console.log bare</string>
 	<key>scope</key>
-	<string>source.css,source.scss,source.js,source.js.jquery</string>
+	<string>source.js,source.js.jquery</string>
 	<key>tabTrigger</key>
-	<string>/*</string>
+	<string>cl</string>
 	<key>uuid</key>
-	<string>A820E82A-C859-4D21-A90E-45B9247200CF</string>
+	<string>EBE92F02-F17D-4733-BE8D-649FCB406FB4</string>
 </dict>
 </plist>

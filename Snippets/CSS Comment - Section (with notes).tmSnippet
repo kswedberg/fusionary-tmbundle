@@ -8,12 +8,10 @@
 ${2:Notes...}
 ************************************************************/
 $0</string>
-	<key>keyEquivalent</key>
-	<string>~@/</string>
 	<key>name</key>
 	<string>CSS/JS Comment - Section (with notes)</string>
 	<key>scope</key>
-	<string>source.css, source.js, source.js.jquery</string>
+	<string>source.css,source.scss,source.js,source.js.jquery,source.php.embedded.block.html</string>
 	<key>tabTrigger</key>
 	<string>/*</string>
 	<key>uuid</key>

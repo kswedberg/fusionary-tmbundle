@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/*!
+ * jQuery clueTip plugin v${1:}
+ *
+ * Date: 
+ * Requires: jQuery v${2:}
+ *
+ * Copyright 2010, Karl Swedberg
+ * Dual licensed under the MIT and GPL licenses (just like jQuery):
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ * ${3:Description}
+ * 
+ *
+*/</string>
+	<key>name</key>
+	<string>CSS/JS Comment - Header</string>
+	<key>scope</key>
+	<string>source.css,source.scss,source.js,source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>/*!</string>
+	<key>uuid</key>
+	<string>359EF26B-DCAB-4A4E-BD61-0D9F6D0E8D5E</string>
+</dict>
+</plist>
